@@ -34,3 +34,4 @@ jobs:
           args: deploy --dir=dist --prod
           secrets: '["NETLIFY_AUTH_TOKEN", "NETLIFY_SITE_ID"]'
           #test1
+          #test2
