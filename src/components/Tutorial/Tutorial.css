@@ -1,0 +1,20 @@
+.video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.video-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 70%;
+    width: 70%;
+    position: absolute;
+}
+
+/* TutorialVideo.css */
+
+.TutorialVideo {
+    margin-bottom: 30px; 
+  }
