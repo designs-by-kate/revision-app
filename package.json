@@ -2,8 +2,7 @@
   "name": "revision-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Mikemupararano.github.io/react_deploy",
-
+  "homepage": "https://designs-by-kate.github.io/react_deploy",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
